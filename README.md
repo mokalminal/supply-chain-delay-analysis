@@ -27,10 +27,17 @@ Real-world datasets are inherently flawed. During the initial data profiling pha
 * **The Resolution:** I formally flagged the feature as non-viable for operational insights. By stripping this "noise" out of the final scope, I successfully shifted the project focus to regional operational delays where true statistical variance existed.
 
 ## 📊 Key Insights & Visualizations
+
+<img width="1180" height="558" alt="Screenshot 2026-07-07 at 6 40 19 PM" src="https://github.com/user-attachments/assets/c18633a1-65a5-4c1f-892f-ee4fe710159d" />
+
+
 The polished analysis uncovered clear, actionable operational insights regarding shipping efficiency:
 * **Vendor Bottlenecks:** `OceanExpress` was isolated as a severe operational outlier, exhibiting nearly double the average delay hours of competing carriers.
 * **Geographic Constraints:** Cross-tabulating carriers by region proved that this delay issue is entirely regional—confined strictly to the **Asia-Pacific** sector where `OceanExpress` operates.
 * **Temporal Patterns:** Plotting daily averages across June revealed a highly rhythmic, wave-like zigzag pattern fluctuating between **3.8 and 5.0 hours**. This confirms an ongoing, systemic operational loop (such as weekend port congestion or fixed cargo backlogs) rather than an isolated, freak incident.
+
+  <img width="1160" height="522" alt="Screenshot 2026-07-07 at 6 43 41 PM" src="https://github.com/user-attachments/assets/3316a4bf-fdec-440d-b7c4-99900d3dd22c" />
+
 
 ## 🚀 Strategic Business Recommendations
 Based on the findings, the following actions are recommended for the logistics management team:
